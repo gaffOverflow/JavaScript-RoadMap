@@ -1,0 +1,53 @@
+* {
+  color: green;
+  box-sizing: border-box;
+}
+body {
+  background: #ddd;
+}
+
+input,
+button {
+  border-radius: 30px;
+  margin: 10px;
+  box-shadow: 2px 2px 5px #000;
+  border: none;
+  height: 35px;
+}
+
+div {
+  background: #fff;
+  width: 400px;
+  border-radius: 30px;
+  box-shadow: inset 2px 2px 5px #000, 2px 2px 5px #000;
+  padding: 2rem;
+  margin-top: 1em;
+  border: 5px solid #fff;
+}
+#count {
+  text-align: center;
+  display: block;
+  font-size: 2em;
+}
+#decrease,
+#reset,
+#increase {
+  margin-right: 30px;
+}
+#myCheckbox {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.radio {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+article{
+  display: flex;
+  margin: 10px;
+  flex-wrap: wrap;
+}

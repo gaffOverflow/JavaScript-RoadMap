@@ -8,23 +8,23 @@
   ES6 Syntax (Arrow function): const add = () => {}
 */
 
-function add(){
+function add() {
   //Add function here
 }
 
-function sub(){
+function sub() {
   //Subtract function here
 }
 
-function div(){
+function div() {
   //Divide function here
 }
 
-function mul(){
+function mul() {
   //Multiply function here
 }
 
-console.log('hello from the SUM exercise')
+console.log("hello from the SUM exercise");
 /* 
   TODO: create a function that console logs the result of any of the above operations.
 */
